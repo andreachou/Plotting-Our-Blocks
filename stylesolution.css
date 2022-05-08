@@ -28,12 +28,27 @@
     vertical-align:top;
 }
 
+/* 
+my practice:
+.side-nav, .main{
+    display:inline-block;
+    vertical-align:top;
+} 
+*/
+
 .sub-content {
     height: 200px;
     width: 210px;
     background-color: yellow;
 
     display:inline-block;
+    
+    /*  
+    my practice:
+    margin-top:5px;
+    margin-left:5px;
+    padding:2px; 
+    */
 
     margin:10px;
 }
@@ -41,7 +56,13 @@
     height: 120px;
     width: 660px;
     background-color: purple;
-
+    
+    /*  
+    my practice:
+    margin-top:20px;
+    margin-left:5px;
+    */
+    
     margin:10px;
 }
 
